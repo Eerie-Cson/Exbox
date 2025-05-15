@@ -44,7 +44,7 @@ canvas {
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  font-size: 10vw;
+  font-size: 15vh;
   color: white !important;
   mix-blend-mode: normal !important;
   opacity: 1 !important;
