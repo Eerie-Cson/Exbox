@@ -169,8 +169,8 @@ canvas {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdwd202ZGN6YmFtdjN5YWhuMHNzZWVxei1sa2I1OTRnMC5wbmc.png");
-  color: rgb(2, 2, 2);
+  background-color: #f08080;
+  color: white;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -185,6 +185,8 @@ canvas {
 
 .flip-card-intro {
   transform: none;
+  background-image: url("https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wNy8wMWdwd202ZGN6YmFtdjN5YWhuMHNzZWVxei1sa2I1OTRnMC5wbmc.png");
+  color: rgb(2, 2, 2);
 }
 
 .flip-card-outro {
